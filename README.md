@@ -41,6 +41,7 @@ Desenvolver uma aplicação Full Stack utilizando React, Node.js e TypeScript pa
 
 - Compartilhe o código em um repositório no GitHub.
 - Adicione um README explicando a configuração e execução do projeto.
+- Prazo de entrega: `considerar a data combinada com cada um`.
 - (Bônus) Caso você queira pode publicar a(s) aplicação(ões) em alguma plataforma de hospedagem.
 
 **Boa sorte!** 🚀
